@@ -10,10 +10,6 @@
 и пробел для пустой ячейки
 6. Пусть игрок за Х ходит первым.
 """
-# Интерпретатор в браузере: https://www.programiz.com/python-programming/online-compiler/
-# Помощник в браузере: https://zzzcode.ai/
-
-
 import PvP
 import PvE
 import utility_funcs as uf
